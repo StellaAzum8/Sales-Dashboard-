@@ -2,7 +2,7 @@
 
 # **Sales Dashboard Analysis**  
 
-![Sales Dashboard](Sales%20Dashboard.png)  
+![Sales Dashboard](https://drive.google.com/file/d/1S4WKz22kQ1wh1VdF6trJa4-MGDwitWzu/view?usp=drive_link)  
 
 ---
 
