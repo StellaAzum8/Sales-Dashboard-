@@ -3,7 +3,7 @@
 
 ![Sales Dashboard](Sales%20Dashboard.png)  
 
-##  **Project Overview**  
+  **Project Overview**  
 The **Sales Dashboard Dashboard** is a comprehensive visualization tool designed to provide actionable insights into sales performance, profitability, and customer segments. It is built using Power BI (or Excel, depending on the tool used) and showcases an intuitive interface with segmented filters for in-depth analysis. The dashboard focuses on data from 2018 and 2019, segmented across multiple countries and customer types.
 ---
 
@@ -113,13 +113,6 @@ These insights provide actionable intelligence for improving sales performance, 
    - ✅ **Data Querying:** Leveraging Excel's query features for analysis.  
    - ✅ **Data Visualization:** Charts, graphs, and dashboards for clear representation.  
 
----
-
-##  **Business Impact**  
--  **Improved Strategic Planning:** Data-driven insights for resource allocation and market targeting.  
--  **Enhanced Sales Focus:** Prioritize profitable products and high-performing customer segments.  
--  **Seasonal Campaigns:** Plan sales and marketing strategies around identified peak periods.  
--  **Market Optimization:** Target high-revenue geographical regions effectively.  
 
 ---
 
