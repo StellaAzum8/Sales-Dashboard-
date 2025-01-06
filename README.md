@@ -1,128 +1,135 @@
+---
 
-#  **Sales Dashboard Analysis**  
+# **Sales Dashboard Analysis**  
 
 ![Sales Dashboard](Sales%20Dashboard.png)  
----
-
-##  **Project Overview**  
-The sales dashboard is a comprehensive visualization tool designed to provide actionable insights into sales performance, profitability, and customer segments. It is built using Excel and showcases an intuitive interface with segmented filters for in-depth analysis. The dashboard focuses on data from 2018 and 2019, segmented across multiple countries and customer types.
----
-
-##  **Project Objectives**  
--  **Sales and Profit Analysis:** Evaluate sales and profit trends across different customer segments and product categories.  
--  **Top-Performing Products:** Identify products driving the highest revenue and profit margins.  
--  **Trend Analysis:** Understand sales and profit trends over time for strategic planning.  
--  **Geographical Insights:** Assess sales performance across key markets.  
--  **Customer Segmentation:** Highlight the contribution of each customer segment to overall revenue and profitability.  
 
 ---
 
-##  **Dashboard Breakdown**  
+## **Project Overview**  
+This Sales Dashboard is a professional visualization tool designed to deliver actionable insights into sales performance, profitability, and customer segmentation. Built using **Microsoft Excel**, it enables businesses to make data-driven decisions by analyzing trends, identifying key contributors, and exploring interactive filters for years, regions, and customer types.  
 
-###  **1. Key Metrics Overview**  
-- **Total Sales:** Overall revenue generated across all regions and segments.  
-- **Total Profit:** Net profit across the dataset period.  
-- **Top Performing Product:** The product contributing the highest sales revenue.  
-- **Best Performing Segment:** The customer segment driving the largest profit.  
-- **Year Filter:** Comparative analysis between selected years (e.g., 2018 and 2019).  
-
-These metrics offer a **high-level snapshot** of the organization's sales and profit performance.  
+The dataset covers the years **2018** and **2019**, focusing on key markets and customer segments to provide a holistic view of sales dynamics.  
 
 ---
 
-###  **2. Segment by Sum of Profit (Bar Chart)**  
-- Visualizes profit distribution across customer segments.  
-- **Government and Small Business** segments show the highest contributions to overall profit.  
-- **Enterprise and Midmarket** represent smaller, yet significant profit shares.  
-
-**Insight:** Prioritize high-profit segments for strategic campaigns.  
-
----
-
-###  **3. Segment by Sum of Sales (Donut Chart)**  
-- Displays sales contributions by customer segments.  
-- The **Government** and **Small Business** segments dominate sales revenue.  
-
-**Insight:** Sales strategies can be fine-tuned to maximize these segments' performance.  
+## **Project Objectives**  
+- **Analyze Sales & Profit Trends:** Assess trends across different segments and product categories.  
+- **Identify Top Performers:** Determine which products and segments contribute most to revenue and profit.  
+- **Understand Seasonal Trends:** Explore monthly profit and sales performance for planning.  
+- **Geographical Insights:** Evaluate performance across countries such as Canada, France, and the USA.  
+- **Customer Segmentation:** Highlight the roles of different customer types in driving business outcomes.  
 
 ---
 
-###  **4. Product by Sum of Sales (Tree Map)**  
-- Highlights **top-selling products** visually.  
-- Products like **Arcadia**, **Montana**, and **VTT** emerge as significant revenue drivers.  
+## **Dashboard Breakdown**  
 
-**Insight:** Focus on high-performing products for increased profitability.  
-
----
-
-###  **5. Total Profit by Product (Donut Chart)**  
-- Breaks down profit contributions per product.  
-- Visual clarity on **most profitable products** allows efficient resource allocation.  
-
-**Insight:** Prioritize sales efforts on high-margin products.  
+### **1. Key Metrics Overview**  
+- **Total Sales:** Aggregated revenue across all countries and segments.  
+- **Total Profit:** Net profit derived from sales performance.  
+- **Top Product:** The product generating the highest sales and profit margin.  
+- **Leading Segment:** The customer segment contributing the most to profitability.  
+- **Filterable Analysis:** Comparative insights for **2018** and **2019**, segmented by regions and customer types.  
 
 ---
 
-###  **6. Cost of Goods Sold (COGS) (Scatter Plot)**  
-- Analyzes the relationship between **cost and profit margins**.  
-- Identifies cost-efficient product categories.  
+### **2. Segment by Sum of Profit (Bar Chart)**  
+- Displays the profit contribution of customer segments:  
+  - **Government** and **Small Business** lead significantly.  
+  - **Enterprise** and **Midmarket** exhibit smaller profit shares.  
 
-**Insight:** Optimize cost structures to maximize profit margins.  
-
----
-
-###  **7. Trends in Profits per Year (Line Chart)**  
-- Tracks **monthly profit trends for 2019**.  
-- Significant spikes highlight **seasonal peaks** and high-performing months.  
-
-**Insight:** Use historical data to plan sales campaigns during peak months.  
+**Insight:** Focus on high-profit segments for growth strategies.  
 
 ---
 
-###  **8. Sum of Sales by Segment (Bar Chart)**  
-- Compares **sales volume** across customer segments.  
-- **Government and Small Business** segments lead in total sales contribution.  
+### **3. Segment by Sum of Sales (Donut Chart)**  
+- Highlights sales distribution by segment.  
+- **Government** and **Small Business** dominate total revenue.  
 
-**Insight:** Align marketing strategies to dominant revenue-generating segments.  
-
----
-
-###  **9. Filters**  
-- **Year Filter:** Compare performance across multiple years (2018, 2019).  
-- **Country Filter:** Focus on specific geographical markets (e.g., Canada, France, USA).  
-- **Segment Filter:** Drill down into individual customer segments.  
-
-**Insight:** Interactive filters provide tailored views for strategic analysis.  
+**Insight:** Enhance product offerings for these segments to sustain growth.  
 
 ---
 
-##  **Key Insights**  
-1.  **Government and Small Business Segments:** Drive the majority of sales and profit contributions.  
-2.  **Top-Performing Products:** Products like **Arcadia**, **Montana**, and **VTT** lead in sales and profits.  
-3.  **Seasonal Peaks:** Clear seasonal trends highlight high-performing months.  
-4.  **Geographical Focus:** Sales are concentrated in key markets such as **USA and Canada**.  
-5.  **Cost Efficiency:** Effective cost management directly impacts profit margins.  
+### **4. Product by Sum of Sales (Tree Map)**  
+- Visual representation of **top-selling products**:  
+  - **Amarilla**, **Montana**, and **Arcadia** are key revenue drivers.  
 
-These insights provide actionable intelligence for improving sales performance, strategic planning, and operational efficiency.  
+**Insight:** Invest in marketing and inventory for high-performing products.  
+
+---
+
+### **5. Total Profit by Product (Donut Chart)**  
+- Illustrates profit contributions of individual products:  
+  - High-margin products like **Montana** and **Arcadia** stand out.  
+
+**Insight:** Allocate resources to boost sales of high-margin items.  
+
+---
+
+### **6. Cost of Goods Sold (COGS) vs. Profit (Scatter Plot)**  
+- Analyzes the relationship between **costs** and **profit margins**:  
+  - Outliers indicate areas needing cost optimization.  
+
+**Insight:** Reduce production costs for underperforming products.  
+
+---
+
+### **7. Trends in Profits per Year (Line Chart)**  
+- Tracks **monthly profit trends in 2019**, revealing:  
+  - Spikes in specific months due to **seasonal campaigns**.  
+
+**Insight:** Leverage peak months to maximize profitability.  
+
+---
+
+### **8. Sum of Sales by Segment (Bar Chart)**  
+- Compares sales volume across customer segments:  
+  - **Government** and **Small Business** segments contribute the highest sales.  
+
+**Insight:** Align marketing and sales efforts with dominant revenue sources.  
+
+---
+
+### **9. Filters**  
+- **Year Filter:** Switch between 2018 and 2019 for year-on-year comparisons.  
+- **Country Filter:** Focus on sales in specific regions like **Canada** and **USA**.  
+- **Segment Filter:** Drill down into segments like **Government**, **Small Business**, and **Enterprise**.  
+
+**Insight:** Filters provide tailored views, aiding deeper strategic analysis.  
+
+---
+
+## **Key Insights**  
+1. **Top Segments:**  
+   - **Government** and **Small Business** lead in both sales and profitability.  
+2. **High-Performing Products:**  
+   - Products like **Montana** and **Arcadia** drive consistent revenue and profit.  
+3. **Seasonal Opportunities:**  
+   - Monthly trends highlight profitable periods for targeted campaigns.  
+4. **Geographical Focus:**  
+   - Sales are concentrated in key markets such as **USA** and **Canada**.  
+5. **Cost Efficiency:**  
+   - Identifying and reducing costs for low-performing products is crucial.  
 
 ---
 
 ## 🛠 **Tools Used**  
 - **Microsoft Excel:**  
-   - ✅ **Data Cleaning:** Removing duplicates, handling missing values, and ensuring consistency.  
-   - ✅ **Data Processing:** Advanced formulas, pivot tables, and conditional formatting.  
-   - ✅ **Data Querying:** Leveraging Excel's query features for analysis.  
-   - ✅ **Data Visualization:** Charts, graphs, and dashboards for clear representation.  
-
-
----
-
-## 🤝 **Collaboration and Contribution**  
-I’m open to collaboration and feedback! If you have suggestions or wish to contribute:  
-- **Raise an Issue** on GitHub  
-- **Submit a Pull Request** with improvements  
+   - Data cleaning, transformation, and validation.  
+   - Pivot tables for summarizing data.  
+   - Charts and graphs for effective data visualization.  
+   - Interactive slicers for dynamic filtering.  
 
 ---
+
+## 🤝 **Collaboration and Feedback**  
+This dashboard is open to collaboration and feedback!  
+
+If you have suggestions or want to contribute:  
+- Raise an **issue** on GitHub.  
+- Submit a **pull request** with recommendations for improvement.  
+
+--- 
 
 ## 📧 **Contact Information**  
 **Azum Stella**  
